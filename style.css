@@ -1,0 +1,16 @@
+body {
+  font-family: "Lucida Console", "Courier New", monospace;
+  margin: 2em;
+  background-color: #ffffff;
+}
+
+header {
+  display: block;
+  color: blueviolet;
+}
+
+.choiceButtons {
+  display: block;
+  color: blueviolet;
+}
+
